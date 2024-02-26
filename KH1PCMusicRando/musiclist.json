@@ -1,0 +1,487 @@
+﻿[
+  // DP
+  {
+    "filename": "music101.dat\\music101.win32.scd",
+    "title": "Deep Jungle",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music102.dat\\music102.win32.scd",
+    "title": "Having a Wild Time",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music157.bgm\\music157.win32.scd",
+    "title": "Holy Bananas",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // OC
+  {
+    "filename": "music103.bgm\\music103.win32.scd",
+    "title": "Olympus Coliseum",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music164.bgm\\music164.win32.scd",
+    "title": "Road To Hero",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music120.bgm\\music120.win32.scd",
+    "title": "Go For It",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // TT
+  {
+    "filename": "music104.dat\\music104.win32.scd",
+    "title": "Traverse Town",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music112.dat\\music112.win32.scd",
+    "title": "Hand In Hand",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music184.bgm\\music184.win32.scd",
+    "title": "Merlin Magical House",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  // DI
+  {
+    "filename": "music105.dat\\music105.win32.scd",
+    "title": "Destiny Islands",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music119.dat\\music119.win32.scd",
+    "title": "Busting Up On The Beach",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // WL
+  {
+    "filename": "music116.dat\\music116.win32.scd",
+    "title": "Welcome To Wonderland",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music118.bgm\\music118.win32.scd",
+    "title": "To Our Surprise",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // AG
+  {
+    "filename": "music127.dat\\music127.win32.scd",
+    "title": "A Day In Agrabah",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music128.dat\\music128.win32.scd",
+    "title": "Arabian Dream",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // HT
+  {
+    "filename": "music144.dat\\music144.win32.scd",
+    "title": "This Is Halloween",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music165.bgm\\music165.win32.scd",
+    "title": "This Is Halloween (Alternative)",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music149.dat\\music149.win32.scd",
+    "title": "Spooks Of Halloween Town",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // HB
+  {
+    "filename": "music152.dat\\music152.win32.scd",
+    "title": "Hollow Bastion",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music153.dat\\music153.win32.scd",
+    "title": "Scherzo Di Notte",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // EW
+  {
+    "filename": "music154.dat\\music154.win32.scd",
+    "title": "End Of The World",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music155.dat\\music155.win32.scd",
+    "title": "Fragments Of Sorrow",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // PP
+  {
+    "filename": "music129.dat\\music129.win32.scd",
+    "title": "Captain Hook Pirate Ship",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music146.dat\\music146.win32.scd",
+    "title": "Pirate Gigue",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music130.dat\\music130.win32.scd",
+    "title": "Never Land Sky",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  // PN
+  {
+    "filename": "music117.dat\\music117.win32.scd",
+    "title": "A Very Small Wish",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music121.dat\\music121.win32.scd",
+    "title": "Monstrous Monstro",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // AT
+  {
+    "filename": "music140.dat\\music140.win32.scd",
+    "title": "Under The Sea",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music147.dat\\music147.win32.scd",
+    "title": "An Adventure In Atlantica",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  // HAW
+  {
+    "filename": "music141.dat\\music141.win32.scd",
+    "title": "Winnie The Pooh",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music158.bgm\\music158.win32.scd",
+    "title": "Bounce-O-Rama",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  // Boss/Special
+  {
+    "filename": "music097.bgm\\music097.win32.scd",
+    "title": "Dissapeared (No Intro)",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music098.bgm\\music098.win32.scd",
+    "title": "One Winged Angel (No Intro)",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music099.bgm\\music099.win32.scd",
+    "title": "Dissapeared",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music111.bgm\\music111.win32.scd",
+    "title": "Shrouding Dark Cloud",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music131.dat\\music131.win32.scd",
+    "title": "Night Of Fate",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music145.bgm\\music145.win32.scd",
+    "title": "Destiny Force",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music150.bgm\\music150.win32.scd",
+    "title": "Squirming Evil",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music151.bgm\\music151.win32.scd",
+    "title": "The Deep End",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music156.bgm\\music156.win32.scd",
+    "title": "Guardando Nel Buio",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music173.bgm\\music173.win32.scd",
+    "title": "No Time To Think",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music174.bgm\\music174.win32.scd",
+    "title": "An Intense Situation",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music185.bgm\\music185.win32.scd",
+    "title": "Forze Del Male",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music194.bgm\\music194.win32.scd",
+    "title": "Guardando Nel Buio (No Intro)",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music196.bgm\\music196.win32.scd",
+    "title": "One Winged Angel",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  {
+    "filename": "music197.bgm\\music197.win32.scd",
+    "title": "Night On Bald Mountain",
+    "type": [ "Boss", "Boss", "Wild" ]
+  },
+  // Other
+  {
+    "filename": "music110.bgm\\music110.win32.scd",
+    "title": "Dearly Beloved",
+    "type": [ "Title", "Title", "Wild" ]
+  },
+  {
+    "filename": "music193.bgm\\music193.win32.scd",
+    "title": "Dearly Beloved Reprise",
+    "type": [ "Title", "Title", "Wild" ]
+  },
+  {
+    "filename": "music122.dat\\music122.win32.scd",
+    "title": "Blast Away Gummi Ship I",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music123.dat\\music123.win32.scd",
+    "title": "Blast Away Gummi Ship II",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music124.dat\\music124.win32.scd",
+    "title": "Shipmeisters Humoresque",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music125.dat\\music125.win32.scd",
+    "title": "Precious Stars In The Sky",
+    "type": [ "Field", "Field", "Wild" ]
+  },
+  {
+    "filename": "music148.dat\\music148.win32.scd",
+    "title": "Blast Away Gummi Ship III",
+    "type": [ "Battle", "Battle", "Wild" ]
+  },
+  {
+    "filename": "music114.bgm\\music114.win32.scd",
+    "title": "Unknown 1 [Heartless Has Come, Pt.3]",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music142.bgm\\music142.win32.scd",
+    "title": "Dive Into The Heart (Part 9)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music143.bgm\\music143.win32.scd",
+    "title": "Mickey Mouse Club March",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music160.bgm\\music160.win32.scd",
+    "title": "Kairi I",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music161.bgm\\music161.win32.scd",
+    "title": "Kairi II",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music163.bgm\\music163.win32.scd",
+    "title": "Villains Of A Sort",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music170.bgm\\music170.win32.scd",
+    "title": "A Piece Of Peace",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music172.bgm\\music172.win32.scd",
+    "title": "A Walk In Adante",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music176.bgm\\music176.win32.scd",
+    "title": "Friends In My Heart",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music178.bgm\\music178.win32.scd",
+    "title": "Treasured Memories",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music180.bgm\\music180.win32.scd",
+    "title": "Kairi III",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music187.bgm\\music187.win32.scd",
+    "title": "Just An Itty Bitty Too Much",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music188.bgm\\music188.win32.scd",
+    "title": "It Began With A Letter",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music106.bgm\\music106.win32.scd",
+    "title": "Where Is This (Part 1) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music107.bgm\\music107.win32.scd",
+    "title": "Where Is This (Part 2) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music108.bgm\\music108.win32.scd",
+    "title": "Where Is This (Part 3b) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music109.bgm\\music109.win32.scd",
+    "title": "Where Is This (Part 4) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music113.bgm\\music113.win32.scd",
+    "title": "The Heartless Has Come [Heartless Has Come, Pt.1] (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music115.bgm\\music115.win32.scd",
+    "title": "Where Is This (Part 3a) [Heartless Has Come, Pt.2] (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music132.bgm\\music132.win32.scd",
+    "title": "Dive to the Heart",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music126.bgm\\music126.win32.scd",
+    "title": "Turning The Key (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music159.bgm\\music159.win32.scd",
+    "title": "Once Upon a Time (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music162.bgm\\music162.win32.scd",
+    "title": "Villains Of A Sort (Short)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music166.bgm\\music166.win32.scd",
+    "title": "Strange Whispers (Part 5) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music167.bgm\\music167.win32.scd",
+    "title": "Strange Whispers (Part 1) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music168.bgm\\music168.win32.scd",
+    "title": "Strange Whispers",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music169.bgm\\music169.win32.scd",
+    "title": "Strange Whispers (Part 3) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music171.bgm\\music171.win32.scd",
+    "title": "Strange Whispers (Part 4) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music175.bgm\\music175.win32.scd",
+    "title": "Unknown 3 [Kairi In Cabin] (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music177.bgm\\music177.win32.scd",
+    "title": "Tricksy Clock (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music179.bgm\\music179.win32.scd",
+    "title": "Miracle (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music181.bgm\\music181.win32.scd",
+    "title": "Hikari [Sora's Sacrifice] (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music182.bgm\\music182.win32.scd",
+    "title": "Mickey Mouse Club March (Intro) [Queen's Castle Drumroll] (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music183.bgm\\music183.win32.scd",
+    "title": "Oopsy-Daisy (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music186.bgm\\music186.win32.scd",
+    "title": "Unknown 2 [Plenty Of Hunny!] (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music189.bgm\\music189.win32.scd",
+    "title": "Blast Away Gummi Ship I (Sting 2) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music190.bgm\\music190.win32.scd",
+    "title": "Blast Away Gummi Ship I (Sting) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music191.bgm\\music191.win32.scd",
+    "title": "Beyond The Door (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  },
+  {
+    "filename": "music192.bgm\\music192.win32.scd",
+    "title": "Always On My Mind (Final Mix Version) (no loop)",
+    "type": [ "Cutscene", "Cutscene", "Wild" ]
+  }
+  //{
+    //"filename": "music100.dat\\music100.win32.scd",
+    //"title": "empty 1kb file",
+    //"type": [ "Cutscene", "Cutscene", "Wild" ]
+  //},
+  //{
+    //"filename": "music137.bgm\\music137.win32.scd",
+    //"title": "empty 1kb file",
+    //"type": [ "Cutscene", "Cutscene", "Wild" ]
+  //}
+]
