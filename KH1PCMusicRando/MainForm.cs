@@ -189,12 +189,20 @@ namespace KH1PCMusicRando
 					rand.RandomizeArray(tmp);
 					musicCopy[cat] = new Queue<string>(tmp);
 				}
+				string fn = musicCopy[cat].Dequeue();
 				mod.Assets.Add(new Asset()
 				{
 					Method = "copy",
 					Name = Path.Combine(@"remastered\amusic", file.Filename),
-					Sources = new List<Asset>() { new Asset() { Name = musicCopy[cat].Dequeue() } }
+					Sources = new List<Asset>() { new Asset() { Name = fn } }
 				});
+				if (file.HasDat)
+					mod.Assets.Add(new Asset()
+					{
+						Method = "copy",
+						Name = Path.Combine(@"remastered\amusic", file.Filename.Replace(".bgm", ".dat")),
+						Sources = new List<Asset>() { new Asset() { Name = fn } }
+					});
 			}
 			File.WriteAllText("mod.yml", new SerializerBuilder().ConfigureDefaultValuesHandling(DefaultValuesHandling.OmitNull).Build().Serialize(mod));
 		}

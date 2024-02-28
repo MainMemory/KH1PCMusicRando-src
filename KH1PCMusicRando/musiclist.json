@@ -12,12 +12,14 @@
   },
   {
     "filename": "music157.bgm\\music157.win32.scd",
+    "has_dat": true,
     "title": "Holy Bananas",
     "type": [ "Battle", "Battle", "Wild" ]
   },
   // OC
   {
     "filename": "music103.bgm\\music103.win32.scd",
+    "has_dat": true,
     "title": "Olympus Coliseum",
     "type": [ "Field", "Field", "Wild" ]
   },
@@ -28,6 +30,7 @@
   },
   {
     "filename": "music120.bgm\\music120.win32.scd",
+    "has_dat": true,
     "title": "Go For It",
     "type": [ "Battle", "Battle", "Wild" ]
   },
@@ -44,6 +47,7 @@
   },
   {
     "filename": "music184.bgm\\music184.win32.scd",
+    "has_dat": true,
     "title": "Merlin Magical House",
     "type": [ "Field", "Field", "Wild" ]
   },
@@ -66,6 +70,7 @@
   },
   {
     "filename": "music118.bgm\\music118.win32.scd",
+    "has_dat": true,
     "title": "To Our Surprise",
     "type": [ "Battle", "Battle", "Wild" ]
   },
@@ -185,6 +190,7 @@
   },
   {
     "filename": "music111.bgm\\music111.win32.scd",
+    "has_dat": true,
     "title": "Shrouding Dark Cloud",
     "type": [ "Boss", "Boss", "Wild" ]
   },
@@ -246,6 +252,7 @@
   // Other
   {
     "filename": "music110.bgm\\music110.win32.scd",
+    "has_dat": true,
     "title": "Dearly Beloved",
     "type": [ "Title", "Title", "Wild" ]
   },
@@ -291,6 +298,7 @@
   },
   {
     "filename": "music143.bgm\\music143.win32.scd",
+    "has_dat": true,
     "title": "Mickey Mouse Club March",
     "type": [ "Cutscene", "Cutscene", "Wild" ]
   },

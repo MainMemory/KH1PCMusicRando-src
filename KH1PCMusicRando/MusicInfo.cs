@@ -4,10 +4,11 @@ using System.Collections.Generic;
 
 namespace KH1PCMusicRando
 {
-	[JsonObject(NamingStrategyType = typeof(CamelCaseNamingStrategy))]
+	[JsonObject(NamingStrategyType = typeof(SnakeCaseNamingStrategy))]
 	class OutputTrackInfo
 	{
 		public string Filename { get; set; }
+		public bool HasDat { get; set; }
 		public string Title { get; set; }
 		public List<string> Type { get; set; }
 
@@ -476,7 +477,7 @@ namespace KH1PCMusicRando
 			new InputTrackInfo("bgm_087.win32.scd", "Battle"), // Storm Diver
 			new InputTrackInfo("bgm_088.win32.scd", "Boss"), // Wild Blue
 			new InputTrackInfo("bgm_089.win32.scd", "Field"), // My Heart's Descent
-			new InputTrackInfo("bgm_091.win32.scd", "Cutscene"), // Dream Drop Distance -The Next Awakening-
+			//new InputTrackInfo("bgm_091.win32.scd", "Cutscene"), // Dream Drop Distance -The Next Awakening-
 			new InputTrackInfo("bgm_093.win32.scd", "Boss"), // The Eye of Darkness
 			new InputTrackInfo("bgm_094.win32.scd", "Boss"), // The Dread of Night
 			new InputTrackInfo("bgm_095.win32.scd", "Cutscene"), // SOMEDAY -KINGDOM MIX-
