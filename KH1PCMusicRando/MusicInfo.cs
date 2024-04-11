@@ -10,7 +10,7 @@ namespace KH1PCMusicRando
 		public string Filename { get; set; }
 		public bool HasDat { get; set; }
 		public string Title { get; set; }
-		public List<string> Type { get; set; }
+		public string[] Type { get; set; }
 
 		public static OutputTrackInfo[] Load() => JsonConvert.DeserializeObject<OutputTrackInfo[]>(System.IO.File.ReadAllText("musiclist.json"));
 	}

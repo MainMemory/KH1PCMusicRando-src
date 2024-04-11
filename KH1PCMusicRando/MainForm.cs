@@ -182,7 +182,20 @@ namespace KH1PCMusicRando
 			};
 			foreach (var file in OutputTrackInfo.Load())
 			{
-				var cat = settings.CategorizeSongs ? file.Type[rand.Next(file.Type.Count)].ToLowerInvariant() : "wild";
+				var cat = "wild";
+				if (settings.CategorizeSongs)
+				{
+					rand.RandomizeArray(file.Type);
+					cat = null;
+					foreach (var c in file.Type)
+						if (musicCopy.ContainsKey(c))
+						{
+							cat = c;
+							break;
+						}
+					if (cat == null)
+						continue;
+				}
 				if (musicCopy[cat].Count == 0)
 				{
 					var tmp = musicFiles[cat].ToArray();
