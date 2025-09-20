@@ -12,7 +12,14 @@ namespace KH1PCMusicRando
 		public string Title { get; set; }
 		public string[] Type { get; set; }
 
-		public static OutputTrackInfo[] Load() => JsonConvert.DeserializeObject<OutputTrackInfo[]>(System.IO.File.ReadAllText("musiclist.json"));
+		public static OutputTrackInfo[] Load()
+		{
+			var result = JsonConvert.DeserializeObject<OutputTrackInfo[]>(System.IO.File.ReadAllText("musiclist.json"));
+			foreach (var track in result)
+				for (int i = 0; i < track.Type.Length; i++)
+					track.Type[i] = track.Type[i].ToLowerInvariant();
+			return result;
+		}
 	}
 
 	class InputTrackInfo
